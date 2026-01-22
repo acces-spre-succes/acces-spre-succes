@@ -1,0 +1,93 @@
+{
+  "Navigation": {
+    "home": "Acasă",
+    "departments": "Departamente",
+    "about": "Despre noi",
+    "projects": "Proiecte",
+    "volunteer": "Voluntariat",
+    "donate": "Donează",
+    "blog": "Blog",
+    "contact": "Contact",
+    "marketing": "Marketing",
+    "camps": "Tabere",
+    "it": "Web Development / IT",
+    "media": "Fotografie & Media",
+    "education": "Educație",
+    "mission": "Misiune",
+    "team": "Echipa",
+    "ambassadors": "Ambasadori",
+    "media_appearances": "Apariții media",
+    "partners": "Parteneri strategici",
+    "gala": "Gală",
+    "showcase": "Showcase",
+    "become_volunteer": "Devino voluntar",
+    "volunteer_portrait": "Portret voluntar",
+    "faq": "Întrebări frecvente",
+    "anaf": "Donează 3,5% (ANAF)",
+    "sponsorship": "Sponsorizare 20%",
+    "facts": "Fapte, nu vorbe",
+    "events": "Evenimente",
+    "news": "Noutăți",
+    "resources": "Resurse"
+  },
+  "HomePage": {
+    "hero": {
+      "title": "Acces spre Succes",
+      "subtitle": "Împreună construim un viitor mai bun prin educație, mentorat și implicare comunitară.",
+      "cta_volunteer": "Devino voluntar",
+      "cta_donate": "Donează",
+      "cta_projects": "Vezi proiectele"
+    },
+    "impact": {
+      "title": "Impactul Nostru"
+    },
+    "projects": {
+      "title": "Proiecte Recente",
+      "view_all": "Vezi toate proiectele"
+    },
+    "testimonials": {
+      "title": "Ce spun voluntarii"
+    },
+    "partners": {
+      "title": "Parteneri Strategici"
+    },
+    "newsletter": {
+      "title": "Abonează-te la newsletter",
+      "subtitle": "Rămâi la curent cu noutățile și evenimentele noastre.",
+      "placeholder": "Adresa ta de email",
+      "button": "Abonează-te"
+    }
+  },
+  "Footer": {
+    "description": "Împreună construim un viitor mai bun prin educație, mentorat și implicare comunitară.",
+    "quick_links": "Linkuri Rapide",
+    "legal": "Legal",
+    "contact": "Contact",
+    "privacy": "Politica de Confidențialitate",
+    "cookies": "Politica Cookies",
+    "terms": "Termeni și Condiții",
+    "copyright": "Asociația Acces spre Succes. Toate drepturile rezervate.",
+    "about": "Despre Noi",
+    "projects": "Proiecte",
+    "volunteer": "Voluntariat",
+    "blog": "Blog"
+  },
+  "Donation": {
+    "anaf": {
+      "title": "Donează 3,5% din impozitul pe venit",
+      "subtitle": "Redirecționează gratuit 3,5% din impozitul pe venit către Acces spre Succes. Nu te costă nimic, dar pentru noi înseamnă enorm.",
+      "steps_title": "Cum procedez?",
+      "step1": "Accesează formularul online",
+      "step2": "Completează datele tale",
+      "step3": "Semnează și trimite",
+      "cta": "Completează formularul pe formular230.ro",
+      "trust": "Datele tale sunt procesate în siguranță prin platforma formular230.ro."
+    },
+    "sponsorship": {
+      "title": "Sponsorizare 20% (Companii)",
+      "subtitle": "Companiile pot direcționa până la 20% din impozitul pe profit către ONG-uri.",
+      "benefits": "Beneficii pentru companie",
+      "cta": "Scrie-ne la admin@acces-spre-succes.ro"
+    }
+  }
+}

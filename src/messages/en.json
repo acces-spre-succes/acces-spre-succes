@@ -1,0 +1,93 @@
+{
+    "Navigation": {
+        "home": "Home",
+        "departments": "Departments",
+        "about": "About Us",
+        "projects": "Projects",
+        "volunteer": "Volunteer",
+        "donate": "Donate",
+        "blog": "Blog",
+        "contact": "Contact",
+        "marketing": "Marketing",
+        "camps": "Camps",
+        "it": "Web Development / IT",
+        "media": "Photography & Media",
+        "education": "Education",
+        "mission": "Mission",
+        "team": "Team",
+        "ambassadors": "Ambassadors",
+        "media_appearances": "Media Appearances",
+        "partners": "Strategic Partners",
+        "gala": "Gala",
+        "showcase": "Showcase",
+        "become_volunteer": "Become a volunteer",
+        "volunteer_portrait": "Volunteer Portrait",
+        "faq": "FAQ",
+        "anaf": "Donate 3.5% (ANAF)",
+        "sponsorship": "Sponsorship 20%",
+        "facts": "Deeds, not words",
+        "events": "Events",
+        "news": "News",
+        "resources": "Resources"
+    },
+    "HomePage": {
+        "hero": {
+            "title": "Access to Success",
+            "subtitle": "Building a better future together through education, mentorship, and community involvement.",
+            "cta_volunteer": "Become a volunteer",
+            "cta_donate": "Donate",
+            "cta_projects": "View projects"
+        },
+        "impact": {
+            "title": "Our Impact"
+        },
+        "projects": {
+            "title": "Recent Projects",
+            "view_all": "View all projects"
+        },
+        "testimonials": {
+            "title": "What volunteers say"
+        },
+        "partners": {
+            "title": "Strategic Partners"
+        },
+        "newsletter": {
+            "title": "Subscribe to newsletter",
+            "subtitle": "Stay up to date with our news and events.",
+            "placeholder": "Your email address",
+            "button": "Subscribe"
+        }
+    },
+    "Footer": {
+        "description": "Building a better future together through education, mentorship, and community involvement.",
+        "quick_links": "Quick Links",
+        "legal": "Legal",
+        "contact": "Contact",
+        "privacy": "Privacy Policy",
+        "cookies": "Cookie Policy",
+        "terms": "Terms and Conditions",
+        "copyright": "Acces spre Succes Association. All rights reserved.",
+        "about": "About Us",
+        "projects": "Projects",
+        "volunteer": "Volunteer",
+        "blog": "Blog"
+    },
+    "Donation": {
+        "anaf": {
+            "title": "Donate 3.5% of income tax",
+            "subtitle": "Redirect 3.5% of your income tax to Access to Success for free. It costs you nothing, but means the world to us.",
+            "steps_title": "How does it work?",
+            "step1": "Access the online form",
+            "step2": "Fill in your details",
+            "step3": "Sign and submit",
+            "cta": "Fill the form on formular230.ro",
+            "trust": "Your data is securely processed via formular230.ro."
+        },
+        "sponsorship": {
+            "title": "20% Sponsorship (Companies)",
+            "subtitle": "Companies can redirect up to 20% of their profit tax to NGOs.",
+            "benefits": "Benefits for the company",
+            "cta": "Contact us at admin@acces-spre-succes.ro"
+        }
+    }
+}
