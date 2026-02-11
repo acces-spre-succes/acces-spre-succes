@@ -32,7 +32,7 @@
     },
     "HomePage": {
         "hero": {
-            "title": "Access to Success",
+            "title": "Acces spre Succes",
             "subtitle": "Building a better future together through education, mentorship, and community involvement.",
             "cta_volunteer": "Become a volunteer",
             "cta_donate": "Donate",
@@ -75,7 +75,7 @@
     "Donation": {
         "anaf": {
             "title": "Donate 3.5% of income tax",
-            "subtitle": "Redirect 3.5% of your income tax to Access to Success for free. It costs you nothing, but means the world to us.",
+            "subtitle": "Redirect 3.5% of your income tax to Acces spre Succes for free. It costs you nothing, but means the world to us.",
             "steps_title": "How does it work?",
             "step1": "Access the online form",
             "step2": "Fill in your details",
@@ -84,10 +84,39 @@
             "trust": "Your data is securely processed via formular230.ro."
         },
         "sponsorship": {
-            "title": "20% Sponsorship (Companies)",
-            "subtitle": "Companies can redirect up to 20% of their profit tax to NGOs.",
-            "benefits": "Benefits for the company",
-            "cta": "Contact us at admin@acces-spre-succes.ro"
+            "title": "Redirect 20% of your profit tax",
+            "subtitle": "Companies can sponsor our association by redirecting up to 20% of their profit tax. It's not an additional cost – it's a redirection from the tax already owed to the state.",
+            "why_title": "Why sponsor us?",
+            "why_description": "By sponsoring us, you choose to support children and young people from disadvantaged backgrounds, whom we help through our education, mentorship, and personal development programs. With your help, they can have a better life and a real chance at social integration and education.",
+            "why_items": {
+                "item1": "You support educational and mentoring programs for vulnerable children and youth",
+                "item2": "You contribute to the social and professional integration of young people from disadvantaged backgrounds",
+                "item3": "You provide access to extracurricular activities, camps, and development workshops",
+                "item4": "You invest in the future of the community and society"
+            },
+            "how_title": "How does it work?",
+            "how_description": "The 20% profit tax redirection is a fiscal facility that allows legal entities to support a cause by redirecting a percentage of their owed profit tax. The sponsorship amounts are deducted from the profit tax according to art. 25, par. 4, pt. i) of the Fiscal Code and the Sponsorship Law 32/1994.",
+            "steps_title": "Simple steps to sponsor",
+            "step1_title": "Download the contract",
+            "step1_description": "Download the sponsorship contract below.",
+            "step2_title": "Fill in your details",
+            "step2_description": "Complete the contract with your company's details and the amount you wish to redirect.",
+            "step3_title": "Send us the contract",
+            "step3_description": "Send the completed contract to admin@acces-spre-succes.ro.",
+            "download_contract": "Download sponsorship contract 2026",
+            "send_contract": "Send the completed contract",
+            "send_info": "After filling in the contract with your company's details, send it by email to:",
+            "benefits_title": "Benefits for your company",
+            "benefit1": "Tax deduction of up to 20% of profit tax",
+            "benefit2": "Visibility at our events and projects",
+            "benefit3": "Mention on our website and social media",
+            "benefit4": "Transparent reporting of fund usage",
+            "benefit5": "Corporate volunteering opportunities for employees",
+            "fiscal_title": "About the fiscal facility",
+            "fiscal_description": "According to current legislation, companies that pay profit tax can deduct sponsored amounts from their owed tax, up to the minimum value between 0.75% of turnover and 20% of the annual profit tax owed. The amount must be transferred to the association according to the contract terms.",
+            "association_details": "Association details",
+            "association_name": "Acces spre Succes Association",
+            "trust": "The sponsorship contract is a simple legal document with no additional obligations."
         }
     }
 }

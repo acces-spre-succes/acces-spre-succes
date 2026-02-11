@@ -84,10 +84,39 @@
       "trust": "Datele tale sunt procesate în siguranță prin platforma formular230.ro."
     },
     "sponsorship": {
-      "title": "Sponsorizare 20% (Companii)",
-      "subtitle": "Companiile pot direcționa până la 20% din impozitul pe profit către ONG-uri.",
-      "benefits": "Beneficii pentru companie",
-      "cta": "Scrie-ne la admin@acces-spre-succes.ro"
+      "title": "Direcționează 20% din impozitul pe profit",
+      "subtitle": "Companiile pot sponsoriza asociația noastră prin redirecționarea a până la 20% din impozitul pe profit. Nu este un cost suplimentar – este o redirecționare din impozitul deja datorat statului.",
+      "why_title": "De ce să ne sponsorizați?",
+      "why_description": "Sponsorizându-ne, alegi să susții copiii și tinerii din medii defavorizate, pe care îi sprijinim prin programele noastre de educație, mentorat și dezvoltare personală. Cu ajutorul tău, ei pot avea o viață mai bună și o șansă reală la integrare socială și educație.",
+      "why_items": {
+        "item1": "Susții programe educaționale și de mentorat pentru copii și tineri vulnerabili",
+        "item2": "Contribui la integrarea socială și profesională a tinerilor din medii defavorizate",
+        "item3": "Oferi acces la activități extracurriculare, tabere și ateliere de dezvoltare",
+        "item4": "Investești în viitorul comunității și al societății"
+      },
+      "how_title": "Cum funcționează?",
+      "how_description": "20% din impozitul pe profit este o facilitate fiscală care permite persoanelor juridice să susțină o cauză prin redirecționarea unui procent din impozitul pe profit datorat. Sumele aferente sponsorizărilor se scad din impozitul pe profit conform art. 25, alin. 4, pct. i) din Codul Fiscal și Legii sponsorizării 32/1994.",
+      "steps_title": "Pași simpli pentru sponsorizare",
+      "step1_title": "Descarcă contractul",
+      "step1_description": "Descarcă contractul de sponsorizare de mai jos.",
+      "step2_title": "Completează datele",
+      "step2_description": "Completează contractul cu datele companiei tale și suma pe care dorești să o direcționezi.",
+      "step3_title": "Trimite-ne contractul",
+      "step3_description": "Trimite contractul completat la adresa admin@acces-spre-succes.ro.",
+      "download_contract": "Descarcă contractul de sponsorizare 2026",
+      "send_contract": "Trimite contractul completat",
+      "send_info": "După completarea contractului cu datele companiei tale, trimite-l pe email la:",
+      "benefits_title": "Beneficii pentru compania ta",
+      "benefit1": "Deducere fiscală de până la 20% din impozitul pe profit",
+      "benefit2": "Vizibilitate în cadrul evenimentelor și proiectelor noastre",
+      "benefit3": "Menționare pe site-ul nostru și pe rețelele sociale",
+      "benefit4": "Raportare transparentă a utilizării fondurilor",
+      "benefit5": "Oportunități de voluntariat corporate pentru angajați",
+      "fiscal_title": "Detalii despre facilitatea fiscală",
+      "fiscal_description": "Conform legislației în vigoare, companiile care plătesc impozit pe profit pot deduce sumele sponsorizate din impozitul datorat, până la valoarea minimă dintre 0,75% din cifra de afaceri și 20% din impozitul pe profit anual datorat. Suma trebuie virată asociației conform termenelor din contract.",
+      "association_details": "Datele asociației",
+      "association_name": "Asociația Acces spre Succes",
+      "trust": "Contractul de sponsorizare este un document legal simplu, fără obligații suplimentare."
     }
   }
 }

@@ -114,10 +114,6 @@ export default function Header() {
                     </NavigationMenu>
 
                     <LanguageSwitcher />
-
-                    <Button asChild className="bg-gold text-white hover:bg-gold/90">
-                        <Link href="/doneaza/anaf">{t("donate")}</Link>
-                    </Button>
                 </div>
 
                 {/* Mobile Navigation */}
@@ -154,9 +150,6 @@ export default function Header() {
                                 >
                                     {t("contact")}
                                 </Link>
-                                <Button asChild className="bg-gold text-white hover:bg-gold/90 mt-4">
-                                    <Link href="/doneaza/anaf" onClick={() => setIsOpen(false)}>{t("donate")}</Link>
-                                </Button>
                             </nav>
                         </SheetContent>
                     </Sheet>
